@@ -1,5 +1,5 @@
 # cpp_SpiralFloorHeating
-count underfloor pipe spiral heating
+count underfloor lenght of pipe in spiral heating system
 
 <p aling="center">
 <img src="room.gif">
