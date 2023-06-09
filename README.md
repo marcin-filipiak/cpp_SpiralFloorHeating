@@ -10,7 +10,7 @@ count underfloor lenght of pipe in spiral heating system
 - above the pipes, the minimum concrete thickness is 4.5 cm
 - the minimum concrete thickness is 6.5 cm for a 16mm pipe
 - a single flooding area should not exceed 30-40 square meters
-- the length of the pipe with the inlet to the heating zone must be less than 100m
+- the length of the pipe with the inlet to the heating zone must be less than 100 m
 - the space between pipes is everywhere the same
 - the distance between the tube and the edge of the surface is the same as that between the tubes
 - side C=A
