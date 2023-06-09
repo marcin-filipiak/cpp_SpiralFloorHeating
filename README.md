@@ -6,10 +6,15 @@ count underfloor lenght of pipe in spiral heating system
 </p>
 
 ## Design assumptions
-- the space between pipes is everywhere the same<br>
-- the distance between the tube and the edge of the surface is the same as that between the tubes<br/>
-- side C=A <br>
-- side D=B <br>
-- the pipes enter on the space by the side D <br>
+- remember that the minimum distance from the wall of the first tube is 15 cm
+- above the pipes, the minimum concrete thickness is 4.5 cm
+- the minimum concrete thickness is 6.5 cm for a 16mm pipe
+- a single flooding area should not exceed 30-40 square meters
+- the length of the pipe with the inlet to the heating zone must be less than 100m
+- the space between pipes is everywhere the same
+- the distance between the tube and the edge of the surface is the same as that between the tubes
+- side C=A
+- side D=B
+- the pipes enter on the space by the side D
 
 
