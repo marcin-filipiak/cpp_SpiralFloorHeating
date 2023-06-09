@@ -1,6 +1,6 @@
 # cpp_SpiralFloorHeating
 Count underfloor lenght of pipe in spiral heating system.
-Obliczenia dla pojedynczej płyty grzewczej. Pomieszczenie może składać się z wielu takich płyt. Kalkulator podaje dane szacunkowe długości rury, sprawdza również podstawowe założenia konstrukcyjne.
+Calculations for a single hob. A room can consist of many such plates. The calculator provides pipe length estimates and checks basic design assumptions.
 
 <p aling="center">
 <img src="room.gif">
