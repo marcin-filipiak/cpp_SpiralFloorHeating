@@ -5,8 +5,7 @@ count underfloor pipe spiral heating
 <img src="room.gif">
 </p>
 
-'''
-wall C=A
-wall D=B
-the pipes enter the room by wall D
-'''
+wall C=A <br>
+wall D=B <br>
+the pipes enter the room by wall D <br>
+
